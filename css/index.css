@@ -1,0 +1,17 @@
+.intro-2 {
+    background: url("https://mdbootstrap.com/img/Photos/Others/img (50).jpg")no-repeat center center;
+    background-size: cover;
+}
+
+html,
+body,
+header,
+.view,
+.main {
+    height: 100%;
+}
+
+section {
+  min-height: 100%;
+    padding-top: 80px;
+}
